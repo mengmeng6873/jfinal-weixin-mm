@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jfinal-weixin-core/jfinal-weixin-core.iml" filepath="$PROJECT_DIR$/jfinal-weixin-core/jfinal-weixin-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jfinal-weixin-interface/jfinal-weixin-interface.iml" filepath="$PROJECT_DIR$/jfinal-weixin-interface/jfinal-weixin-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jfinal-weixin-module.iml" filepath="$PROJECT_DIR$/jfinal-weixin-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jfinal-weixin-war/jfinal-weixin-war.iml" filepath="$PROJECT_DIR$/jfinal-weixin-war/jfinal-weixin-war.iml" />
+    </modules>
+  </component>
+</project>

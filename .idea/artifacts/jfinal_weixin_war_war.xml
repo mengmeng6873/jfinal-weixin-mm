@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jfinal-weixin-war:war">
+    <output-path>$PROJECT_DIR$/jfinal-weixin-war/target</output-path>
+    <root id="archive" name="jfinal-weixin-war-1.0.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="jfinal-weixin-war:war exploded" />
+    </root>
+  </artifact>
+</component>
